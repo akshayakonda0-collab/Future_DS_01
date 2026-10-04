@@ -71,6 +71,9 @@ The first page provides an executive overview of business performance.
 - Top 10 Products by Profit
 - Year, Region, and Segment filters
 
+[Page 1 — Executive Dashboard](screenshots/page-1-executive-dashboard.png)
+
+
 ### Page 2 — Profitability Analysis
 
 The second page focuses on profitability and business performance.
@@ -83,6 +86,7 @@ The second page focuses on profitability and business performance.
 - Profit Margin by Region
 - Year, Category, Region, and Segment filters
 
+![Page 2 — Profitability Analysis](screenshots/page-2-profitability-analysis.png)
 ---
 
 ## 🔎 Key Business Insights
